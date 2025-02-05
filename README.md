@@ -20,5 +20,5 @@ Este proyecto consiste en un análisis visual de los datos del famoso Titanic, d
   - `Fare`: Tarifa pagada por los pasajeros.
  
  ## Vista Previa del Dashboard
- ![Titanic Dashboard](https://raw.githubusercontent.com/tu_usuario/nombre_repositorio/main/titanic-dashboard.png)
+ ![Titanic Dashboard](https://github.com/Amontanez2/TITANIC-DASHBOARD/blob/main/titanic%20dashboard1.PNG?raw=true)
 
